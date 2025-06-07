@@ -1,6 +1,6 @@
-# Copy website practice
+# Copy Website Practice
 
-## Credits, Original Sit
+## Credits To Original Site
 https://desktop.github.com/download/
 
 ### Description
